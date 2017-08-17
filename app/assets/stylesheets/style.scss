@@ -193,9 +193,28 @@ fieldset {
 }
 
 #button-start {
-    height: 50px;
-    width: 300px;
-    border-radius: 4px;
+    display: inline-block;
+    color: #fff; 
+    background: none;
+    padding: 15px 25px;
+    border: 1px solid #333; 
+    font-size: 14px; 
+    border-radius: 0px; 
+    font-weight: 300; 
+    -webkit-transition: .3s;
+    transition: .3s;
+    background: #232323;
+    text-transform: capitalize; 
+    border-radius: 30px; 
+}
+
+#button-start:hover {
+    background: #777474;
+    border: 1px solid #000;
+    color: #000;
+    -webkit-transition: all 0.4s;
+    -webkit-transition: all 0.2s;
+    transition: all 0.2s;
 }
 
 .welcome-image-area {
