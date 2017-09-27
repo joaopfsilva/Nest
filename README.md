@@ -1,24 +1,16 @@
-# README
+Nest_landing_page - NLP
+=====
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+NLP is an under construction landing page for a private project that is
+being developed by the contributors of this repository. The landing page
+intends to present the functionalities and potential of the platform Nest.
 
-Things you may want to cover:
+This new platform will create a new way of interaction between people-places
+and people-people, allowing to people understand 'what is' and 'who is' around
+them.
 
-* Ruby version
+The project was built in Rails 5 and hosted in Heroku.
 
-* System dependencies
 
-* Configuration
+Work in progress.
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
